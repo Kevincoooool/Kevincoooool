@@ -2,7 +2,7 @@
 
 ### Welcome to Kevincoooool👋
 * Focusing on OpenSource
-* OpenMV
-* Jlink
-* DAPLink
+* OpenMV & Linux
+* Jlink & DAPLink
+* ESP32 & ESP8266
 * ...
