@@ -1,44 +1,100 @@
+<!-- 顶部 Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=180&section=header&text=Kevin%20Xiang&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-### Welcome to Kevincoooool👋  <img src="https://komarev.com/ghpvc/?username=Kevincoooool" alt="Kevincoooool" />  
-**An Embedded Software Engineer. Aim to become a Software and Hardware Full Stack Engineer.**
+<h3 align="center">👨‍💻 Embedded Systems Engineer | ESP32 & STM32 Enthusiast</h3>
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kevincoooool&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-  <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
+---
 
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
+## 🧠 About Me
 
+- 🔧 专注 **嵌入式系统 & IoT 设备开发**
+- ⚡ 主力语言：**C / C++ / Python**
+- 🧩 擅长 **ESP32 / STM32 / Wi-Fi / Bluetooth / 音频 / 显示**
+- 🖥️ 熟悉 **Qt / LVGL / Linux / ESP-IDF**
+- 🚀 喜欢把 **硬件 + 软件 + 系统** 做成完整可落地的产品
 
-<!-- profile logo 个人资料徽标 -->
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=Kevincoooool&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-  </div>
+> 「让代码真正跑在硬件上，并且长期稳定运行」是我最感兴趣的事情。
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevincooooolL/Kevincoooool/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kevincoooool/Kevincoooool/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kevincoooool/Kevincoooool/output/github-contribution-grid-snake.svg">
-</picture>
+---
 
-</div>
+## 🔧 Tech Stack
 
-<table>
-<tr>
-<td style = "width: 50%;">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kevincoooool&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />  
+### 🧠 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+</p>
 
+### ⚙️ Embedded & Hardware
+<p>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=flat"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=flat"/>
+</p>
 
-</table>  
+### 🖼️ GUI / Display
+<p>
+  <img src="https://img.shields.io/badge/LVGL-00BFFF?style=flat"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white"/>
+</p>
 
-* Focusing on OpenSource Hardware & Software
-* OpenMV & STM32 & MCU & Linux & ESP32
-* Jlink & DAPLink
-* ESP32 & ESP8266 & T113-S3 &V821
-* ...
+### 🌐 Connectivity
+<p>
+  <img src="https://img.shields.io/badge/Wi--Fi-0082FC?style=flat"/>
+  <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=flat&logo=bluetooth&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kevincoooool&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Kevincoooool&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevincoooool&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Contribution Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kevincoooool&theme=tokyonight" />
+</p>
+
+---
+
+## 💻 Coding State
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
+</p>
+
+---
+
+## 📫 Find Me
+
+- 🐙 GitHub: [https://github.com/Kevincoooool](https://github.com/Kevincoooool)
+
+---
+
+<p align="center">
+  <i>“Talk is cheap. Show me the hardware.”</i>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=120&section=footer"/>
+</p>
